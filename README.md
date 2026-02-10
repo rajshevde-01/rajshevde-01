@@ -12,7 +12,7 @@ Final-year B.Tech Computer Science (Cyber Security) student and Cyber Security I
 ![](https://nirzak-streak-stats.vercel.app/?user=rajshevde-01&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajshevde-01&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
