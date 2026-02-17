@@ -21,138 +21,20 @@ My practical experience includes SIEM concepts, firewall monitoring, IDS/IPS (Sn
 
 ## 🚀 Featured Projects
 
-### � [LogStrike-SOC - Live Incident Dashboard](https://github.com/rajshevde-01/LogStrike-SOC---Live-Incident-dashbaord)
-**Real-time Security Operations Center dashboard with live incident monitoring**
-
-Production-ready SIEM platform with real-time log ingestion, threat detection, and live incident visualization.
-
-**Tech Stack:** Python, Flask, PostgreSQL, React, WebSockets  
-**Key Features:**
-- ⚡ Real-time log ingestion & parsing
-- 🎯 Rule-based threat detection engine
-- 📊 Live incident dashboard with metrics
-- 🚨 Alert management & correlation
-- 📡 RESTful API for log submission
-
----
+### 🚨 [LogStrike-SOC - Live Incident Dashboard](https://github.com/rajshevde-01/LogStrike-SOC---Live-Incident-dashbaord)
+Production-ready SIEM platform with real-time log ingestion, threat detection, and live incident visualization dashboard.
 
 ### 🛡️ [FIM-REST-SOC](https://github.com/rajshevde-01/FIM-REST-SOC)
-**File Integrity Monitoring solution for SOC operations with REST API**
-
-Enterprise-grade file integrity monitoring system with baseline creation, real-time monitoring, and RESTful API integration.
-
-**Tech Stack:** Python, Flask, SQLite/PostgreSQL, REST API  
-**Key Features:**
-- 📁 Real-time file system monitoring
-- 🔐 Cryptographic hash verification (SHA-256)
-- 📊 Baseline comparison & drift detection
-- 🌐 REST API for integration with SIEM
-- 🚨 Automated integrity violation alerts
-
----
-
-### ⚡ [Async Ultra-Fast Port Scanner Web Dashboard](https://github.com/rajshevde-01/Async-Ultra-Fast-Port-Scanner-Web-Dashboard)
-**High-performance asynchronous port scanner with web-based visualization**
-
-Lightning-fast network reconnaissance tool using async I/O with real-time web dashboard for scan results.
-
-**Tech Stack:** Python (asyncio), Flask, JavaScript, HTML/CSS  
-**Key Features:**
-- 🚀 Asynchronous port scanning (1000+ ports/sec)
-- 🌐 Interactive web dashboard
-- 📊 Real-time scan progress visualization
-- 🎯 Service detection & banner grabbing
-- 📋 Export results (JSON, CSV)
-
----
+Enterprise-grade file integrity monitoring system with baseline creation, SHA-256 hash verification, and REST API integration.
 
 ### 🕵️ [IOC-Scanner-Lite](https://github.com/rajshevde-01/IOC-Scanner-Lite)
-**Lightweight Indicator of Compromise scanner for threat hunting**
-
-Fast and efficient IOC scanner that detects malicious indicators across files, processes, network connections, and registry.
-
-**Tech Stack:** Python, YARA, PowerShell  
-**Key Features:**
-- 🔍 File hash scanning (MD5, SHA-1, SHA-256)
-- 🌐 IP/Domain reputation checking
-- 📝 YARA rule integration
-- 🔎 Process & network connection analysis
-- 📋 Detailed threat reports
-
----
+Lightweight threat hunting tool for detecting malicious indicators across files, processes, network connections using YARA rules.
 
 ### 🎣 [Phishing URL Triage](https://github.com/rajshevde-01/phishing-url-traige)
-**Automated phishing URL analysis and threat classification tool**
-
-Intelligent phishing detection system using URL analysis, content inspection, and threat intelligence feeds.
-
-**Tech Stack:** Python, Beautiful Soup, URLScan API, VirusTotal API  
-**Key Features:**
-- 🔗 Automated URL analysis & screenshot capture
-- 🧠 ML-based phishing classification
-- 🌐 Integration with threat intelligence feeds
-- 📊 Risk scoring & detailed reports
-- 🚨 Real-time phishing alerts
-
----
+Automated phishing detection system with URL analysis, ML-based classification, and integration with threat intelligence feeds.
 
 ### 🌐 [Threat Feed Aggregator](https://github.com/rajshevde-01/Threat-Feed-Aggregator)
-**Centralized threat intelligence aggregation platform**
-
-Collects, normalizes, and correlates threat intelligence from multiple open-source and commercial feeds.
-
-**Tech Stack:** Python, Flask, SQLite, APIs (AlienVault OTX, AbuseIPDB, etc.)  
-**Key Features:**
-- 📡 Multi-source threat feed ingestion
-- 🔄 Automated feed updates & parsing
-- 🎯 IOC deduplication & normalization
-- 🔍 Threat correlation engine
-- 📊 Export to SIEM/SOAR platforms
-
----
-
-### 👤 [Username Cross-Platform Checker](https://github.com/rajshevde-01/Username-Cross-Platform-Checker)
-**OSINT tool for checking username availability across multiple platforms**
-
-Reconnaissance tool for security investigators to track digital footprints and user presence across social media and web platforms.
-
-**Tech Stack:** Python, Requests, Beautiful Soup  
-**Key Features:**
-- 🔍 Multi-platform username enumeration
-- 🌐 Supports 300+ websites & social platforms
-- ⚡ Async concurrent checking
-- 📊 Detailed availability reports
-- 🕵️ OSINT & threat actor tracking
-
----
-
-### � [Keylogger Detector](https://github.com/rajshevde-01/keylogger-detector)
-**Anti-keylogger tool for detecting and preventing keystroke logging**
-
-Defensive security tool that detects keylogger behavior through process analysis, hook detection, and behavioral monitoring.
-
-**Tech Stack:** Python, Windows API, PowerShell  
-**Key Features:**
-- 🔍 Process & DLL injection detection
-- ⌨️ Keyboard hook monitoring
-- 🧠 Behavioral analysis engine
-- 🚨 Real-time alerts & quarantine
-- 📋 Forensic logging & reporting
-
----
-
-### � [Metadata Extractor](https://github.com/rajshevde-01/Metadata-Extractor)
-**Digital forensics tool for extracting metadata from files**
-
-Automated metadata extraction utility for digital forensics investigations and evidence collection.
-
-**Tech Stack:** Python, ExifTool, PIL  
-**Key Features:**
-- 📸 Image, document & video metadata extraction
-- 🔍 EXIF, IPTC, XMP data parsing
-- 🗓️ Timestamp & geolocation analysis
-- 📊 Batch processing support
-- 📋 Export to JSON/CSV for analysis
+Centralized threat intelligence platform aggregating IOCs from multiple sources with deduplication and SIEM export capabilities.
 
 ---
 
