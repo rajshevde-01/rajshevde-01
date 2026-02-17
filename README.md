@@ -19,6 +19,40 @@ My practical experience includes SIEM concepts, firewall monitoring, IDS/IPS (Sn
 
 ---
 
+## 🎓 Certifications
+
+### 🏆 EC-Council
+- **Network Defense Essentials (NDE)**
+- **EC-Council EHE-112-52** (Ethical Hacking Essentials)
+- **EC-Council DFE-112-53** (Digital Forensics Essentials)
+
+### 🔍 CSI Linux
+- **CSI Linux Certified Investigator**
+
+### 🌐 IBM
+- **Cyber Incident Response and Investigation**
+
+### 📚 LinkedIn Learning
+- **Certified Ethical Hacker (CEH) Cert Prep**
+- **Computer Hacking Forensics Investigator (CHFI) Cert Prep**
+- **The AI-Driven Cybersecurity Analyst**
+- **Penetration Testing and Ethical Hacking**
+- **Penetration Testing with Metasploit**
+- **Metasploit Essential Training**
+- **Burp Suite Essential Training**
+- **Learning Autopsy for Digital Forensics**
+- **Wireshark: Functionality**
+- **Linux: Network Configuration**
+
+### 🎯 edX
+- **Fundamentals of Red Hat Enterprise Linux 9**
+- **Linux Commands & Shell Scripting**
+
+### 🛡️ Security Blue Team
+- **Introduction to Network Analysis**
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🚨 [LogStrike-SOC - Live Incident Dashboard](https://github.com/rajshevde-01/LogStrike-SOC---Live-Incident-dashbaord)
