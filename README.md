@@ -1,21 +1,36 @@
 # 💫 About Me:
 
-Final-year B.Tech Computer Science Engineering (Cyber Security) student and Cyber Security Intern at **Knack Global**, focused on SOC operations, defensive security, and Blue Team practices. I work hands-on with security monitoring, log analysis, and incident investigation workflows in lab and enterprise-style environments.
+Final-year B.Tech Computer Science Engineering (Cyber Security) student and Cyber Security Intern at Knack Global with hands-on experience in Security Operations Center (SOC) environments, specializing in SIEM monitoring, log analysis, alert triage, incident investigation, and network security monitoring.
 
-My practical experience includes SIEM concepts, firewall monitoring, IDS/IPS (Snort), network and digital forensics, and security testing with tools such as Wireshark, Burp Suite, Nmap, and Autopsy. I enjoy building applied security projects that combine detection engineering, secure development, and threat analysis.
+Experienced in analyzing security events, firewall logs, IDS/IPS alerts (Snort), and endpoint telemetry to detect threats, validate alerts, reduce false positives, and escalate incidents appropriately. Strong understanding of the Incident Response lifecycle (Identification, Containment, Eradication, Recovery, Lessons Learned) and structured incident documentation.
 
-**Certified in:**
-- 🔍 CSI Linux Investigation
-- 🛡️ EC-Council (EHE, DFE, NDE)
-- 📚 Additional training in incident response and Linux network configuration
+Core SOC & Blue Team Competencies
 
-**Currently expanding skills in:**
-- SIEM platforms & detection rules
-- VAPT workflows & penetration testing
-- Incident response playbooks
-- Security automation & orchestration
+-SIEM & Log Analysis: Event correlation, alert validation, log parsing, dashboard monitoring, detection rule understanding
 
-**🎯 Actively seeking:** SOC Analyst / Blue Team / Security Operations internships and entry-level roles.
+-Network Security Monitoring: Packet analysis using Wireshark, firewall monitoring, IDS/IPS tuning and investigation
+
+-Threat Detection & Analysis: IOC analysis, anomaly detection, reconnaissance identification, MITRE ATT&CK awareness
+
+-Digital Forensics: Disk and artifact analysis, timeline reconstruction, evidence handling using Autopsy and forensic Linux environments
+
+-Vulnerability Assessment & VAPT: Nmap scanning, web application testing with Burp Suite, exploitation concepts with Metasploit
+
+-Linux & System Security: Red Hat Enterprise Linux fundamentals, Linux network configuration, shell scripting basics
+
+-Security Tools: Wireshark, Nmap, Burp Suite, Metasploit, Snort, Autopsy
+
+Continuously strengthening skills in:
+
+-SIEM platforms and detection engineering
+
+-Incident response playbooks and escalation workflows
+
+-Security automation and SOC process improvement
+
+-Advanced VAPT methodologies
+
+** Actively seeking SOC Analyst (L1/L2), Blue Team, and Security Operations internships and entry-level roles where I can contribute to threat detection, incident response, and enterprise security monitoring.
 
 ---
 
