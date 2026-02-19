@@ -4,7 +4,7 @@ Final-year B.Tech Computer Science Engineering (Cyber Security) student and Cybe
 
 Experienced in analyzing security events, firewall logs, IDS/IPS alerts (Snort), and endpoint telemetry to detect threats, validate alerts, reduce false positives, and escalate incidents appropriately. Strong understanding of the Incident Response lifecycle (Identification, Containment, Eradication, Recovery, Lessons Learned) and structured incident documentation.
 
-Core SOC & Blue Team Competencies
+# Core SOC & Blue Team Competencies
 
 - SIEM & Log Analysis: Event correlation, alert validation, log parsing, dashboard monitoring, detection rule understanding
 
@@ -20,7 +20,7 @@ Core SOC & Blue Team Competencies
 
 - Security Tools: Wireshark, Nmap, Burp Suite, Metasploit, Snort, Autopsy
 
-Continuously Strengthening Skills In
+# Continuously Strengthening Skills In
 
 - SIEM platforms and detection engineering
 
