@@ -20,7 +20,7 @@ Linux & System Security: Red Hat Enterprise Linux fundamentals, Linux network co
 
 Security Tools: Wireshark, Nmap, Burp Suite, Metasploit, Snort, Autopsy
 
-Continuously strengthening skills in:
+Continuously Strengthening Skills In
 
 SIEM platforms and detection engineering
 
@@ -30,8 +30,7 @@ Security automation and SOC process improvement
 
 Advanced VAPT methodologies
 
-Actively seeking SOC Analyst (L1/L2), Blue Team, and Security Operations internships and entry-level roles where I can contribute to threat detection, incident response, and enterprise security monitoring.
-
+🎯 Actively seeking: SOC Analyst (L1/L2), Blue Team, and Security Operations internships and entry-level roles where I can contribute to threat detection, incident response, and enterprise security monitoring.
 ---
 
 ## 🎓 Certifications
