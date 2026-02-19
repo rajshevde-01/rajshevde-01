@@ -1,6 +1,13 @@
 # 💫 About Me:
 
-Final-year B.Tech Computer Science Engineering (Cyber Security) student and Cyber Security Intern at Knack Global with hands-on experience in Security Operations Center (SOC) environments, specializing in SIEM monitoring, log analysis, alert triage, incident investigation, and network security monitoring.Experienced in analyzing security events, firewall logs, IDS/IPS alerts (Snort), and endpoint telemetry to detect threats, validate alerts, reduce false positives, and escalate incidents appropriately. Strong understanding of the Incident Response lifecycle (Identification, Containment, Eradication, Recovery, Lessons Learned) and structured incident documentation.
+Final-year B.Tech Computer Science Engineering (Cyber Security) student and Cyber Security Intern at Knack Global with practical exposure to real-world Security Operations Center (SOC) environments. My core focus lies in defensive security, threat detection, log analysis, and incident response operations, where I actively analyze, investigate, and document security events across enterprise-style and lab infrastructures.
+
+I work hands-on with SIEM monitoring, alert triage, and event correlation, reviewing logs from multiple sources including firewalls, IDS/IPS (Snort), and endpoint telemetry. My responsibilities involve identifying suspicious patterns, validating alerts, reducing false positives, and escalating confirmed incidents based on severity and impact. I approach security incidents methodically, aligning investigations with the standard Incident Response lifecycle — Identification, Containment, Eradication, Recovery, and Lessons Learned — ensuring structured documentation and actionable remediation insights.
+
+Beyond monitoring, I focus on understanding the attacker’s perspective to strengthen defensive capabilities. My experience includes analyzing network traffic, investigating anomalous behavior, correlating Indicators of Compromise (IOCs), and mapping activity to frameworks such as MITRE ATT&CK. I continuously refine my ability to distinguish between benign anomalies and genuine threats through practical labs and applied security projects.
+
+Technically, I have worked with tools such as Wireshark for packet analysis, Snort for intrusion detection, Nmap for reconnaissance and vulnerability discovery, Burp Suite for web security testing, Metasploit for exploitation concepts, and Autopsy for digital forensic analysis. I also build foundational expertise in Linux system administration, network configuration, and security hardening, enabling me to understand both infrastructure and application-layer threats.
+
 
 ## Core SOC & Blue Team Competencies
 
