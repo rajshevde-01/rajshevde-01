@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Final-year B.Tech Computer Science (Cyber Security) student and Cyber Security Intern at **Knack Global**, focused on SOC operations, defensive security, and Blue Team practices. I work hands-on with security monitoring, log analysis, and incident investigation workflows in lab and enterprise-style environments.
+Final-year B.Tech Computer Science Engineering (Cyber Security) student and Cyber Security Intern at **Knack Global**, focused on SOC operations, defensive security, and Blue Team practices. I work hands-on with security monitoring, log analysis, and incident investigation workflows in lab and enterprise-style environments.
 
 My practical experience includes SIEM concepts, firewall monitoring, IDS/IPS (Snort), network and digital forensics, and security testing with tools such as Wireshark, Burp Suite, Nmap, and Autopsy. I enjoy building applied security projects that combine detection engineering, secure development, and threat analysis.
 
