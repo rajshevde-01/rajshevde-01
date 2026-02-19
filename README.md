@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-## Final-year B.Tech Computer Science Engineering (Cyber Security) student and Cyber Security Intern at Knack Global with hands-on experience in Security Operations Center (SOC) environments, specializing in SIEM monitoring, log analysis, alert triage, incident investigation, and network security monitoring.
+Final-year B.Tech Computer Science Engineering (Cyber Security) student and Cyber Security Intern at Knack Global with hands-on experience in Security Operations Center (SOC) environments, specializing in SIEM monitoring, log analysis, alert triage, incident investigation, and network security monitoring.
 
-## Experienced in analyzing security events, firewall logs, IDS/IPS alerts (Snort), and endpoint telemetry to detect threats, validate alerts, reduce false positives, and escalate incidents appropriately. Strong understanding of the Incident Response lifecycle (Identification, Containment, Eradication, Recovery, Lessons Learned) and structured incident documentation.
+Experienced in analyzing security events, firewall logs, IDS/IPS alerts (Snort), and endpoint telemetry to detect threats, validate alerts, reduce false positives, and escalate incidents appropriately. Strong understanding of the Incident Response lifecycle (Identification, Containment, Eradication, Recovery, Lessons Learned) and structured incident documentation.
 
 Core SOC & Blue Team Competencies
 
