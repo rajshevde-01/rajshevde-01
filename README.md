@@ -2,7 +2,7 @@
 
 Final-year B.Tech Computer Science Engineering (Cyber Security) student and Cyber Security Intern at Knack Global with practical exposure to real-world Security Operations Center (SOC) environments. My focus is on defensive security, threat detection, log analysis, and incident response, analyzing and documenting security events across enterprise and lab infrastructures.
 
-I work hands-on with SIEM monitoring, alert triage, and event correlation, reviewing logs from firewalls, IDS/IPS (Snort), and endpoint telemetry. I identify suspicious patterns, validate alerts, reduce false positives, and escalate confirmed incidents based on severity and business impact. My investigations align with the Incident Response lifecycle — Identification, Containment, Eradication, Recovery, and Lessons Learned — ensuring structured documentation and actionable remediation.
+I work hands-on with SIEM monitoring, alert triage, and event correlation, reviewing logs from firewalls, IDS/IPS (Snort), and endpoint telemetry. I identify suspicious patterns, validate alerts, reduce false positives, and escalate confirmed incidents based on severity and business impact. My investigations align with the Incident Response lifecycle, Identification, Containment, Eradication, Recovery, and Lessons Learned ensuring structured documentation and actionable remediation.
 
 Beyond monitoring, I strengthen defensive capabilities by analyzing network traffic, correlating Indicators of Compromise (IOCs), investigating anomalies, and mapping activity to MITRE ATT&CK. I continuously refine my ability to distinguish benign anomalies from genuine threats through hands-on labs and applied security projects.
 
