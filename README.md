@@ -68,7 +68,7 @@ Technically experienced with Wireshark, Snort, Nmap, Burp Suite, Metasploit, and
 - **Linux Commands & Shell Scripting**
 
 ### 🛡️ Security Blue Team
-- **Introduction to Network Analysis**
+- **Introduction To Network Analysis**
 
 ---
 
