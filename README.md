@@ -1,5 +1,4 @@
 # 💫 About Me:
-
 Final year B.Tech Computer Science Engineering (Cyber Security) student and Cyber Security Intern at Knack Global with practical exposure to real world Security Operations Center (SOC) environments. My focus is on defensive security, threat detection, log analysis, and incident response, analyzing and documenting security events across enterprise and lab infrastructures.
 
 I work hands on with SIEM monitoring, alert triage, and event correlation, reviewing logs from firewalls, IDS/IPS (Snort), and endpoint telemetry. I identify suspicious patterns, validate alerts, reduce false positives, and escalate confirmed incidents based on severity and business impact. My investigations align with the Incident Response lifecycle, Identification, Containment, Eradication, Recovery, and Lessons Learned ensuring structured documentation and actionable remediation.
@@ -8,34 +7,23 @@ Beyond monitoring, I strengthen defensive capabilities by analyzing network traf
 
 Technically experienced with Wireshark, Snort, Nmap, Burp Suite, Metasploit, and Autopsy, along with foundational knowledge in Linux system administration, network configuration, and system hardening to understand both infrastructure and application-layer threats.
 
-
 ## Core SOC & Blue Team Competencies
-
-- SIEM & Log Analysis: Event correlation, alert validation, log parsing, dashboard monitoring, detection rule understanding
-
-- Network Security Monitoring: Packet analysis using Wireshark, firewall monitoring, IDS/IPS tuning and investigation
-
-- Threat Detection & Analysis: IOC analysis, anomaly detection, reconnaissance identification, MITRE ATT&CK awareness
-
-- Digital Forensics: Disk and artifact analysis, timeline reconstruction, evidence handling using Autopsy and forensic Linux environments
-
-- Vulnerability Assessment & VAPT: Nmap scanning, web application testing with Burp Suite, exploitation concepts with Metasploit
-
-- Linux & System Security: Red Hat Enterprise Linux fundamentals, Linux network configuration, shell scripting basics
-
-- Security Tools: Wireshark, Nmap, Burp Suite, Metasploit, Snort, Autopsy
+- **SIEM & Log Analysis:** Event correlation, alert validation, log parsing, dashboard monitoring, detection rule understanding
+- **Network Security Monitoring:** Packet analysis using Wireshark, firewall monitoring, IDS/IPS tuning and investigation
+- **Threat Detection & Analysis:** IOC analysis, anomaly detection, reconnaissance identification, MITRE ATT&CK awareness
+- **Digital Forensics:** Disk and artifact analysis, timeline reconstruction, evidence handling using Autopsy and forensic Linux environments
+- **Vulnerability Assessment & VAPT:** Nmap scanning, web application testing with Burp Suite, exploitation concepts with Metasploit
+- **Linux & System Security:** Red Hat Enterprise Linux fundamentals, Linux network configuration, shell scripting basics
+- **Security Tools:** Wireshark, Nmap, Burp Suite, Metasploit, Snort, Autopsy
 
 ## Continuously Strengthening Skills In
-
 - SIEM platforms and detection engineering
-
 - Incident response playbooks and escalation workflows
-
 - Security automation and SOC process improvement
-
 - Advanced VAPT methodologies
 
 ### 🎯 Actively seeking: SOC Analyst (L1/L2), Blue Team, and Security Operations internships and entry-level roles where I can contribute to threat detection, incident response, and enterprise security monitoring.
+
 ---
 
 ## 🎓 Certifications
@@ -71,7 +59,6 @@ Technically experienced with Wireshark, Snort, Nmap, Burp Suite, Metasploit, and
 - **Introduction To Network Analysis**
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🚨 [LogStrike-SOC - Live Incident Dashboard](https://github.com/rajshevde-01/LogStrike-SOC---Live-Incident-dashbaord)
